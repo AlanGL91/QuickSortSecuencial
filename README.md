@@ -12,6 +12,6 @@ Este proyecto implementa el algoritmo de ordenamiento QuickSort en Java y mide e
     - `Funciones.java`: Contiene la implementación de QuickSort y funciones auxiliares.
 
 ## Ejecución del Proyecto
-En la clase Main podemos editar la cantidad de elementos aleatorios que queremos que se generen editando la variables cantidadElementos.
+En la clase Main podemos editar la cantidad de elementos aleatorios que queremos que se generen editando la variable cantidadElementos.
 Al ejecutar la clase esto nos va a devolver en nanosegundos el tiempo qué tardo en ejecutar la cantidad de elementos que tenemos definidos en la variable.
 
