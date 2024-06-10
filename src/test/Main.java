@@ -6,7 +6,7 @@ public class Main
 {
 		public static void main(String[] args) 
 		{
-			int cantidadElementos = 10;
+			int cantidadElementos = 1000;
 
 			// Generar un array aleatorio
 			int[] arr2 = Funciones.generarArrayAleatorio(cantidadElementos, 0, cantidadElementos*10);
